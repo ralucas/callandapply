@@ -4,12 +4,12 @@ Get familiar with the call and apply methods available in Javascript.
 
 Resources
 ----------
-[call - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
-[apply - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
-[Understanding JavaScript Function Invocation and “this”](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
-[useful js: call & apply](http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html)
-[JavaScript’s call v apply v bind](https://medium.com/the-javascript-collection/9e6122cde639)
-[Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+* [call - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/call)
+* [apply - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
+* [Understanding JavaScript Function Invocation and “this”](http://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
+* [useful js: call & apply](http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html)
+* [JavaScript’s call v apply v bind](https://medium.com/the-javascript-collection/9e6122cde639)
+* [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
 Requirements
 ------------
